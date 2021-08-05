@@ -30,6 +30,7 @@ body {
 .high {
   
   background-color: purple;
+  border-radius: 3px;
   color: white;
   width: 330px;
   padding: 4px;
