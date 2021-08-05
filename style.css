@@ -51,8 +51,8 @@ body {
 .card:after {
   content: "";
   display: block;
-  width: 180px;
-  height: 400px;
+  width: 220px;
+  height: 600px;
   background: cadetblue;
   position: absolute;
   animation: rotatemagic 0.75s cubic-bezier(0.425, 1.04, 0.47, 1.105) 1s both;
